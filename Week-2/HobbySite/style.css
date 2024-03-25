@@ -20,15 +20,74 @@ nav>a {
 }
 nav {
     text-align: center;
+    
 }
+
 div.main-pic {
     height: 350px;
     width: auto;
     display: flex;
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 40px;
+}
+div.main-pic-2 {
+    height: 350px;
+    width: auto;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 40px;
+    
 }
 .main-page {
     padding: 40px;
+}
+.main-page-2 {
+    font-size: 30px;
+    text-align: right;
+    padding-right: 30px;
+    
+}
+.workshop {
+    padding: 30px;
+    display: flex;
+    height: 400px;
+    width: auto;
+    padding: 40px;
+    
+}
+.info {
+    padding: 40px;
+    font-size: 25px;
+}
+.form {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.form>a{
+    text-decoration: none;
+    color:#3f3936;
+    text-align: center;
+    font-size: 25px;
+
+}
+.form input, textarea { 
+    border-style: none;
+}
+
+#send:hover {
+    background-color: #3f3936;
+    color: white;
+}
+footer>a{
+    text-decoration: none;
+    color:#3f3936;
+    text-align: center;
+
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
+    
 }
 
