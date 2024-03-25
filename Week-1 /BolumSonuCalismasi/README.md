@@ -1,0 +1,1 @@
+## Semantik HTML etiketlerini kullanarak ana sayfa, hakkımızda ve iletişim kısımlarının olduğu bir web sitesi tasarladık.
