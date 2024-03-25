@@ -1,0 +1,34 @@
+html {
+    background-color: #e8e1d4;
+    color: #3f3936;
+    font-family: 'Playfair Display';
+}
+
+header {
+    height: 150px;
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+nav>a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #3f3936;
+    letter-spacing: 2px;
+    font-family: var(Playfair);
+    padding: 30px;
+}
+nav {
+    text-align: center;
+}
+div.main-pic {
+    height: 350px;
+    width: auto;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.main-page {
+    padding: 40px;
+}
+
