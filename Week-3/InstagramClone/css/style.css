@@ -4,9 +4,12 @@
   color: purple;
   background-position: 40%;
   background-size: 6%;
-  background-image: url(/Week-3/InstagramClone/assets/search-solid.svg);
+  background-image: url(/assets/search-solid.svg);
   background-repeat: no-repeat;
-  
+}
+
+body{
+  background-color: #FAFAFA
 }
 
 input.empty {
