@@ -1,0 +1,49 @@
+.single-ship{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.ship-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    padding: 2rem;
+    border-radius: 2rem;
+    background-color: antiquewhite;
+    margin-bottom: 2rem;
+}
+
+.ship-name {
+    border-bottom: 2px solid rgb(58, 58, 58);
+    margin-bottom: 2rem;
+}
+
+.ship-name p {
+    color: rgb(58, 58, 58);
+    font-weight: 800;
+    font-size: 2.4rem;
+    margin-bottom: 0;
+}
+
+.ship-img img {
+    width: 400px;
+}
+
+.ship-detail-info {
+    margin-bottom: 0.6rem;
+}
+
+.ship-detail-info .title {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.ship-detail-info .value {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+

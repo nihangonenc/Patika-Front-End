@@ -1,0 +1,22 @@
+.ship{
+    padding: 3rem;
+    border-radius: 4rem;
+    background-color: lightblue;
+    margin-bottom: 2rem;
+    cursor: pointer;
+    background-color: #010436;
+    color: white;
+}
+
+.ship-img img {
+    width: 300px;
+    border-radius: 2rem;
+}
+
+.info-row {
+    display: flex;
+}
+
+.info-row .title {
+    font-weight: bold;
+}
